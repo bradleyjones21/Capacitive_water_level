@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Water_level-rescue)(type Legacy)(uri ${KIPRJMOD}/Water_level-rescue.lib)(options "")(descr ""))
+)
